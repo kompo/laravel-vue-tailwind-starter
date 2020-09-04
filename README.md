@@ -8,4 +8,4 @@ To start coding, simply run:
 composer create-project --prefer-dist kompo/laravel-vue-tailwind-starter {blog}
 ```
 
-Replace **{blog}** with your desired folder name.
+Replace **{blog}** with your desired ROOT folder name.
